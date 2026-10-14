@@ -8,7 +8,7 @@
 Code and data for the paper:
 
 > **Minimizing the Spectral Radius: A New Principle for Optimal Teaching. Evidence from Madagascar**
-> Elysa Marie Alfredine Razafindrafara, Mahefa Abel Razafinirina, Jean Berky Nguala, Solym Mawaki Manou-Abi, Angelo Raherinirina.
+> Elysa Marie Alfredine Razafindrafara, Mahefa Abel Razafinirina, Jean Berky Nguala, Solym Manou-Abi, Angelo Raherinirina.
 > *Journal of Applied Statistics* (under revision, 2026).
 
 ## Overview
@@ -148,7 +148,7 @@ Known issues in the raw files, which the scripts handle:
 ```bibtex
 @article{razafindrafara2026spectral,
   title   = {Minimizing the Spectral Radius: A New Principle for Optimal Teaching. Evidence from Madagascar},
-  author  = {Razafindrafara, Elysa Marie Alfredine and Razafinirina, Mahefa Abel and Nguala, Jean Berky and Manou-Abi, Solym Mawaki and Raherinirina, Angelo},
+  author  = {Razafindrafara, Elysa Marie Alfredine and Razafinirina, Mahefa Abel and Nguala, Jean Berky and Manou-Abi, Solym and Raherinirina, Angelo},
   journal = {Journal of Applied Statistics},
   year    = {2026},
   note    = {Under revision}
